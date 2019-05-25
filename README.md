@@ -1,4 +1,4 @@
-# README
+# RoR 프레임워크 사용하여 CRUD 기능을 하는 간단한 게시판 구현
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
